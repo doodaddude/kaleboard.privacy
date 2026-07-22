@@ -1,0 +1,2 @@
+# kaleboard.privacy
+KALEboard Privacy
